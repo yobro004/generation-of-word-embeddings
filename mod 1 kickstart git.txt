@@ -1,0 +1,11 @@
+1. MODULE 1: generation of embeddings and validation
+
+2. Use your own Dataset(text)
+
+3. remember the format: 
+		INPUT: ['People','create','to', 'direct']
+		IMPLIES: people create ________ to direct.
+		output: //will determine the missing word.//
+4. This is a self-supervised algorithm.
+ 
+5. The successful prediction is the proof of the embeddings generated successfully.

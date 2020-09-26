@@ -1,0 +1,12 @@
+1. MODULE 3: 	3.1)Text classification for single inputs.
+		3.2) text classification for bunch of files.
+
+2. for 3.1, a reviews database is chosen. The categories assigned are    1,2,3,4,5.
+   1 being lowest rated and 5 being the highest. Training takes about 10-15 minutes.
+
+3. for 3.2, a collection of emails in .json format are chosen as dataset and the      categories are set accordingly. Any categories can be added or deleted from the    training data categories.
+
+4. Each email from the test folder is classified.
+5. The index starts from 0. category 1 is represented with 0, cat-2 with 1 and so on.
+
+4. The accuracy is calculated after testing is done  	   the final output is    compared with the expected output.
